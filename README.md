@@ -1,8 +1,8 @@
-# Festival Gastronómico Nocturno
+# Rock Festival 
 
 ## Description
 
-This project is a responsive landing page for a nocturnal gastronomic festival.
+This project is a responsive landing page for a  Rock festival.
 The purpose of the website is to promote the festival, present upcoming dates, highlight themed zones and gallery content, and create a visually attractive interface for visitors.
 
 The page focuses on semantic HTML structure and modern CSS layout techniques, ensuring readability, responsiveness, and a clean user experience.
@@ -17,18 +17,21 @@ The page focuses on semantic HTML structure and modern CSS layout techniques, en
 
 ---
 
-## Project Structure
+## 🧱 Project Structure
 
-```bash
-project-folder/
-│
-├── index.html          
-├── css/
-│   └── styles.css      
-├── assets/
-│   ├── icons/         
-│   └── images/        
-└── README.md           
+```
+├── assets
+│   ├── css
+│   │   └── style.css
+│   ├── icons
+│   │   └── logo.ico
+│   ├── img
+│   │   ├── img-1.jpg ... img-10.jpg
+│   │   └── guide.png
+│   └── js
+│       └── main.js
+├── index.html
+└── README.md
 ```
 
 ---
@@ -148,21 +151,7 @@ Open with Live Server
 ## Notes
 
 * This project is focused only on **HTML and CSS**.
-* No JavaScript functionality is included.
 * Images are used for demonstration purposes only.
-
----
-
-##  How to Evaluate the Project
-
-Make sure the project:
-
-* Uses semantic HTML correctly
-* Is visually consistent
-* Works on mobile and desktop
-* Uses Flexbox and/or Grid
-* Includes a structured table
-* Has a clean code organization
 
 ---
 
